@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          Suvash sundas
         </Link>
       </h1>
     </div>
